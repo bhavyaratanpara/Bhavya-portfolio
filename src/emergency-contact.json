@@ -1,0 +1,12 @@
+{
+    "name": "Aarti Lakhatariya",
+    "relation":"Friend",
+    "phone": "8780176087",
+    "address": {
+        "street": "Gunatit Nagar",
+        "city": "Gondal",
+        "state": "Gujarat",
+        "zip": "360311",
+        "country": "India"
+    }
+  }

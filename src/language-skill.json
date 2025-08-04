@@ -1,0 +1,20 @@
+{
+    "languages": [
+      {
+        "language": "English",
+        "spokenLevel": "Fluent",
+        "writtenLevel": "Basic"
+      },
+      {
+        "language": "Hindi",
+        "spokenLevel": "Native",
+        "writtenLevel": "Basic"
+      },
+      {
+        "language": "Gujarati",
+        "spokenLevel": "Intermediate",
+        "writtenLevel": "Proficient"
+      }
+    ]
+  }
+  

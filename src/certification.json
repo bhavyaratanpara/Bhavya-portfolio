@@ -1,0 +1,16 @@
+{
+    "certifications": [
+      {
+        "courseName": "Data Science with Python",
+        "platform": "Coursera",
+        "date": "2025-07-30",
+        "credentialURL": "https://www.coursera.com"
+      },
+      {
+        "courseName": "Web Development with JavaScript",
+        "platform": "Udemy",
+        "date": "2025-07-30",
+        "credentialURL": "https://www.udemy.com"
+      }
+    ]
+  }

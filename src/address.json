@@ -1,0 +1,17 @@
+{
+    "permanentAddress": {
+      "street": "Vraj Heights, opp.Modi School, Ambika Township",
+      "city": "Rajkot",
+      "state": "Gujarat",
+      "zip": "360004",
+      "country": "India"
+    },
+    "currentAddress": {
+        "checkbox": "sameas"
+    },
+    "correspondenceAddress": {
+      "checkbox": "sameas"
+     
+    }
+  }
+  
